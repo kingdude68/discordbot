@@ -1,0 +1,9 @@
+{
+  "TEST": "Hello World!",
+  "WELCOME_&NAME_&BOTNAME":"Hello {0}. I am {1}! How may I assist you?",
+  "ECHO":"Echoed message from {0}:",
+  "PICKED":"My choice for {0}",
+  "GOODNIGHT":"Goodnight message to {0}",
+  "HELLO": "Greetings to {0}",
+  "SECRET": "The secret is `123ABC`."
+}

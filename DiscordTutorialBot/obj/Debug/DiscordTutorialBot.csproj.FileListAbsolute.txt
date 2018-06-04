@@ -1,0 +1,160 @@
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe.config
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.pdb
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.exe
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.pdb
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\SystemLang\alerts.json
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csprojAssemblyReference.cache
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\wcran\Desktop\DiscordBot\DiscordTutorialBot\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CopyComplete
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\SystemLang\alerts.json
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe.config
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.pdb
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csprojAssemblyReference.cache
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CopyComplete
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.exe
+C:\Users\William Ransom\Desktop\Jarvis\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.pdb
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\SystemLang\alerts.json
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe.config
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.pdb
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csprojAssemblyReference.cache
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CopyComplete
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.exe
+C:\Users\wcran\Desktop\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.pdb
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csprojAssemblyReference.cache
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.exe
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.pdb
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\SystemLang\alerts.json
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe.config
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.pdb
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\William Ransom\Desktop\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CopyComplete
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\SystemLang\alerts.json
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe.config
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.exe
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\DiscordTutorialBot.pdb
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csprojAssemblyReference.cache
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.csproj.CopyComplete
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.exe
+C:\Users\wcran\Desktop\Jarvis3\Jarvis3\Jarvis2\Jarvis\DiscordTutorialBot\obj\Debug\DiscordTutorialBot.pdb
